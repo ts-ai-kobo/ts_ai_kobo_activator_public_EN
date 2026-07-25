@@ -1,5 +1,9 @@
 # ts_ai_kobo Activator (Pre‑Purchase Safety Check)
 
+## Developer Philosophy
+Please read our philosophy and ethical statement before considering this product:
+👉 [Developer Philosophy & Ethical Statement](PHILOSOPHY.md)
+
 This repository provides **Activator.exe**, a pre‑purchase safety‑check tool
 that allows you to verify whether your security software falsely detects the
 application before buying the product.
