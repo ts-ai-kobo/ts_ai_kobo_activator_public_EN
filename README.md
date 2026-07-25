@@ -15,7 +15,7 @@ The product itself, DRM logic, and internal components are **not** included here
 ## 📥 Download
 Please download from the **Releases** section:
 
-👉 https://github.com/ts_ai_kobo_activator_public_EN/REPO/releases
+👉 https://github.com/ts-ai-kobo/ts_ai_kobo_activator_public_EN/releases
 
 Do **not** use the green **Code** button.  
 The runtime will not work correctly if downloaded from there.
