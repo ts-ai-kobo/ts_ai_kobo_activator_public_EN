@@ -11,7 +11,7 @@ Purchase link
 
 → https://safinity.base.shop/
 
-Both English and Japanese versions are available. The Japanese version is on the second row.
+Both English and Japanese versions are available. The Japanese version is on the first row.
 
 🟦 Important Notice Before Purchase
 When considering this product, please make sure to read the product manual and the following information carefully.
