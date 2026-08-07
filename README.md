@@ -183,7 +183,7 @@ Avoid misunderstandings such as “I was forced to install dangerous software”
 
 This publication is a measure for user protection and transparency.
 
-##✔ If False Detection Occurs
+## ✔ If False Detection Occurs
 The Activator runs fully offline and does not include malware-like behavior.
 However, false detections may occur depending on environment or security software settings.
 
