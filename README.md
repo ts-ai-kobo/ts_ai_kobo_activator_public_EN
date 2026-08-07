@@ -253,5 +253,5 @@ Use of this app is under license agreement and does not waive copyright
 This repository does not include the product, DRM logic, or encryption nodes.
 A dedicated installer will be provided after purchase.
 
-##✔ Contact
+## ✔ Contact
 For product-related inquiries, please contact via the sales page.
